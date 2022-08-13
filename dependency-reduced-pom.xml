@@ -88,7 +88,7 @@
     </plugins>
   </build>
   <properties>
-    <dropwizard.version>0.9.1</dropwizard.version>
+    <dropwizard.version>2.0.0</dropwizard.version>
     <mainClass>hyphenated.trackerserver.TrackerServerApplication</mainClass>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
